@@ -1,0 +1,19 @@
+CUSTOMER-REVIEW DATA VALIDATION
+================================
+Packaged source file: 01_Data/Customer_Reviews/final_airline_reviews.csv
+Raw observations: 7,559
+Columns: 11
+Missing review text: 0
+Missing recommendation status: 0
+Duplicate review texts removed by notebook logic: 4
+Final analytical sample: 7,555
+Non-recommended: 4,365
+Recommended: 3,190
+Review publication date range: 2015-03-04 to 2026-04-10
+
+Analytical observations by airline:
+- air-india: 1,150
+- british-airways: 1,890
+- emirates: 1,446
+- lufthansa: 1,090
+- qatar-airways: 1,979

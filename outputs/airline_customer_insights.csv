@@ -1,0 +1,6 @@
+airline,average_sentiment,average_rating,recommendation_rate,review_count
+qatar-airways,0.4981,7.06,71.35,1979
+emirates,0.1228,4.91,43.02,1446
+british-airways,0.0626,4.12,32.80,1890
+air-india,-0.1643,3.35,26.78,1150
+lufthansa,-0.2144,3.13,20.92,1090

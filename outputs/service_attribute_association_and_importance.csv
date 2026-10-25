@@ -1,0 +1,6 @@
+Feature,Correlation with recommendation,XGBoost feature importance
+value_for_money,0.822506,0.612158
+seat_comfort,0.695544,0.209651
+staff_service,0.689952,0.122902
+food_beverages,0.692141,0.030467
+entertainment,0.631086,0.024822

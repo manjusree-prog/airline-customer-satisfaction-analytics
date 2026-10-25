@@ -1,0 +1,6 @@
+Metric,AI-enhanced minus structured-only
+Accuracy,0.017207
+F1 Score,0.020872
+ROC AUC,0.011680
+Log Loss,-0.047733
+Errors,-26.000000

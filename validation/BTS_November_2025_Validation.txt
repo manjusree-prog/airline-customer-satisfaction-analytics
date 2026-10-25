@@ -1,0 +1,15 @@
+BTS NOVEMBER 2025 DATA VALIDATION
+=================================
+Packaged source file: 01_Data/BTS/BTS November 2025.csv
+Rows: 570,550
+Columns: 109
+Date range: 2025-11-01 to 2025-11-30
+Unique reporting carriers: 14
+Carriers: AA, AS, B6, DL, F9, G4, HA, MQ, NK, OH, OO, UA, WN, YX
+Cancelled flights: 14,195
+Diverted flights: 1,059
+Missing ArrDelay: 15,254
+Missing DepDelay: 13,937
+Missing ArrDel15: 15,254
+Missing DepDel15: 13,937
+Arrival-delay rate among valid ArrDel15 records: 20.5602%
